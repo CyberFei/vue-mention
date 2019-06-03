@@ -1,6 +1,6 @@
 # Vue 输入框 @提醒插件
 
-(演示地址)[http://demo.mxsg.fun/vue-mention/]
+[演示地址](http://demo.mxsg.fun/vue-mention/)
 
 ## 使用
 
